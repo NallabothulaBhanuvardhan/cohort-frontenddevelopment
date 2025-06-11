@@ -65,9 +65,9 @@ button {
 }
 .S-container:hover{
      box-shadow: 
-      0px 1px 5px greenyellow,
-               0px 1px 5px greenyellow,
-                0px 1px 5px greenyellow;
+      0px 1px 5px grey,
+               0px 1px 5px grey,
+                0px 1px 5px grey;
 }
 
 
